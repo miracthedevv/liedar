@@ -44,7 +44,7 @@ Sistem üç ana veri kaynağını analiz eder (Mevcut versiyonda MediaPipe kıs�
 - **R:** İstatistiki verileri sıfırlayarak kalibrasyonu yeniler.
 
 ## ⚠️ Önemli Uyarı
-Bu proje eğitim ve araştırma amaçlı bir MVP'dir. Kesin sonuçlar vermeyebilir ve profesyonel bir yalan makinesinin (Poligraf) yerine geçmez.
+Bu proje bir araştırma ve test etme projesidir. Kesin sonuçlar vermeyebilir ve profesyonel bir yalan makinesinin (Poligraf) yerine geçmez.
 
 ---
-**Geliştirici:** Antigravity AI
+**Geliştirici:** Miraç Tahircan YILMAZ, Antigravity AI
