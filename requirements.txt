@@ -1,0 +1,17 @@
+# Lie-Dar System Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision
+opencv-contrib-python-headless<4.9
+mediapipe==0.10.21
+
+# Numerical Computing
+numpy<2.0.0
+scipy>=1.11.0
+
+# Audio Processing
+librosa>=0.10.0
+pyaudio>=0.2.13
+
+# Optional: For better performance
+# numba>=0.57.0  # Speeds up librosa
