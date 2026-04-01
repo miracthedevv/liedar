@@ -47,4 +47,4 @@ Sistem üç ana veri kaynağını analiz eder (Mevcut versiyonda MediaPipe kıs�
 Bu proje bir araştırma ve test etme projesidir. Kesin sonuçlar vermeyebilir ve profesyonel bir yalan makinesinin (Poligraf) yerine geçmez.
 
 ---
-**Geliştirici:** Miraç Tahircan YILMAZ, Antigravity AI
+**Geliştirici:** Miraç Tahircan YILMAZ
